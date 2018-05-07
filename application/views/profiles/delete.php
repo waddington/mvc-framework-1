@@ -1,1 +1,0 @@
-<a href="../../profiles/viewall">Profile succesfully deleted. Click here to go back.</a>
